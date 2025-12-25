@@ -1,0 +1,429 @@
+[
+  {
+    "shadow_id": "atlas_2025",
+    "revealed_truth": {
+      "programming_experience": "1 year (as a DevOps engineer, but likely less in Kubernetes)",
+      "programming_language": "Kubernetes, networking, security (likely YAML, scripting)",
+      "skill_mastery": "Basic Kubernetes management, network policy enforcement (Calico), troubleshooting (restarting pods, checking logs)",
+      "leadership_claims": "None (admits to being an intern, not a DevOps engineer, and following senior engineers' instructions)",
+      "team_experience": "Internship, mostly observing and running scripts given by senior engineers",
+      "skills and other keywords": [
+        "Kubernetes",
+        "Calico",
+        "network policy",
+        "troubleshooting",
+        "internship",
+        "YAML",
+        "networking",
+        "security"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "Exaggeration of role and experience",
+        "contradictory_claims": [
+          "Claimed to be a seasoned DevOps engineer specializing in Kubernetes (atlas_2025_1.mp3)",
+          "Admitted it was just a summer internship and mostly watched senior engineers (atlas_2025_5.mp3)"
+        ]
+      },
+      {
+        "lie_type": "False expertise",
+        "contradictory_claims": [
+          "Claimed to be personally responsible for networking and security posture (atlas_2025_1.mp3)",
+          "Admitted senior engineer handled network debugging, and they just deployed YAML files (atlas_2025_4.mp3)"
+        ]
+      },
+      {
+        "lie_type": "Misrepresentation of contributions",
+        "contradictory_claims": [
+          "Claimed to have written all network policies from scratch (atlas_2025_2.mp3)",
+          "No evidence or admission of actual policy writing, likely followed templates or senior guidance"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "buried_confession",
+    "revealed_truth": {
+      "programming_experience": "Limited, mostly copying and assembling existing patterns and scripts",
+      "programming_language": "Not specified, but likely involves scripting and configuration (e.g., Kubernetes, YAML)",
+      "skill_mastery": "Self-admittedly lacks deep expertise, relies on copying and reusing others' work",
+      "leadership_claims": "None; admits to exaggerating contributions to projects",
+      "team_experience": "Worked in a team but did not lead or architect systems",
+      "skills and other keywords": [
+        "Kubernetes",
+        "YAML",
+        "Networking",
+        "Security",
+        "Calico",
+        "Service Isolation",
+        "Scripting",
+        "Copying Patterns",
+        "Reusing Modules"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "Exaggeration of Contributions",
+        "contradictory_claims": [
+          "Claims to 'draw the architecture' but admits to copying and assembling others' work",
+          "Says 'stitching counts as designing' to justify exaggeration"
+        ]
+      },
+      {
+        "lie_type": "False Leadership",
+        "contradictory_claims": [
+          "Admits to not being a DevOps engineer but wanting to be one",
+          "No evidence of leading or architecting systems"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "crius_2025",
+    "revealed_truth": {
+      "programming_experience": "1 year (internship)",
+      "programming_language": "Kubernetes, Networking, Security",
+      "skill_mastery": "Basic Kubernetes management, Network Policy enforcement (Calico), Pod troubleshooting",
+      "leadership_claims": "None (intern, not a DevOps engineer)",
+      "team_experience": "Worked under senior engineers, ran scripts, deployed YAML files",
+      "skills and other keywords": [
+        "Kubernetes",
+        "Calico",
+        "Network Policy",
+        "Pod Troubleshooting",
+        "Internship",
+        "DevOps"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "Exaggeration of Role",
+        "contradictory_claims": [
+          "Claimed to be a seasoned DevOps engineer (atlas_2025_1.mp3)",
+          "Admitted it was an internship (atlas_2025_5.mp3)",
+          "Claimed responsibility for networking and security posture (atlas_2025_1.mp3)",
+          "Admitted senior engineer handled network debugging (atlas_2025_4.mp3)"
+        ]
+      },
+      {
+        "lie_type": "False Expertise",
+        "contradictory_claims": [
+          "Claimed to have written all network policies from scratch (atlas_2025_2.mp3)",
+          "Admitted to only deploying YAML files given by senior engineers (atlas_2025_4.mp3)"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "drifted_anecdote",
+    "revealed_truth": {
+      "programming_experience": "Limited, primarily in assembling and stitching together existing components rather than building from scratch.",
+      "programming_language": "Not explicitly stated, but likely involves scripting and service integration.",
+      "skill_mastery": "Proficient in assembling and integrating existing services and modules, but not in designing or architecting systems from the ground up.",
+      "leadership_claims": "No direct leadership claims, but implies ownership of small features and parts of systems.",
+      "team_experience": "Worked within a team, likely in a supporting or junior role, focusing on integrating and maintaining existing systems.",
+      "skills and other keywords": [
+        "duct tape elegance",
+        "stitched services together",
+        "owned a small feature",
+        "quick fixes",
+        "commit history"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "Exaggeration of ownership and responsibility",
+        "contradictory_claims": [
+          "I built parts of things, stitched services together, and occasionally owned a small feature.",
+          "Sometimes I talk about entire projects because it's simpler to tell a story than to read the commit history."
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "eos_2023",
+    "revealed_truth": {
+      "programming_experience": "8 years of experience in building backend systems",
+      "programming_language": "Not explicitly stated, but likely involves languages used in backend development (e.g., Python, Java, Go, etc.)",
+      "skill_mastery": "Backend systems, architecture, caching, Cosmos DB, design documents, and problem-solving in complex systems",
+      "leadership_claims": "No explicit leadership claims, but mentions a goal to grow into a lead architect role",
+      "team_experience": "Worked within a team, specifically mentioning a team lead who designed the larger architecture",
+      "skills and other keywords": [
+        "backend systems",
+        "architecture",
+        "caching",
+        "Cosmos DB",
+        "design documents",
+        "race conditions",
+        "scalability",
+        "maintainability",
+        "data ingestion service"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "exaggeration",
+        "contradictory_claims": [
+          "Claimed to have 'architected the entire solution' on their resume, but later corrected it to 'architected a specific component' (data ingestion service within a larger architecture designed by the team lead)."
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "hedge_and_dodge",
+    "revealed_truth": {
+      "programming_experience": "Approximately 3-6 years, with a mix of gigs, debugging, and partial module contributions. The exact duration is vague and likely less than claimed.",
+      "programming_language": "Not explicitly stated, but likely general-purpose languages based on context.",
+      "skill_mastery": "Debugging, patching, and contributing to small parts of modules. Limited full ownership of projects or systems.",
+      "leadership_claims": "No actual leadership; the term 'lead' is used loosely to simplify explanations. More of a contributor than a leader.",
+      "team_experience": "Worked in teams but likely in supporting or junior roles, not as a lead or architect.",
+      "skills and other keywords": [
+        "debugging",
+        "patching",
+        "partial module contributions",
+        "team collaboration",
+        "simplified explanations"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "exaggeration",
+        "contradictory_claims": [
+          "Claimed to have been 'around code for a while' (6 years) but admits it's 'more like something that adds up if you count all the little gigs'.",
+          "Uses the term 'lead' loosely, implying leadership when it's just part of teamwork.",
+          "Says 'ive been around code for a while' but later admits 'maybe threeish if you only count the proper stuff'."
+        ]
+      },
+      {
+        "lie_type": "omission",
+        "contradictory_claims": [
+          "Does not clarify the nature of 'little gigs' or 'proper stuff', leaving the extent of experience ambiguous.",
+          "Avoids specifying exact roles or responsibilities, making claims vague."
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "hyperion_2022",
+    "revealed_truth": {
+      "programming_experience": "1+ years (exact duration unclear)",
+      "programming_language": "Python (Django, Celery)",
+      "skill_mastery": "Backend development, database migrations, business logic implementation",
+      "leadership_claims": "Lead developer (not architect), implemented core functionality of a system designed by someone else",
+      "team_experience": "Worked under a lead architect who designed the core architecture and database schema",
+      "skills and other keywords": [
+        "Django",
+        "Celery",
+        "database migrations",
+        "business logic",
+        "backend development",
+        "lead developer"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "exaggeration of responsibility",
+        "contradictory_claims": [
+          "Claimed to have built the backend from the first line of code (hyperion_2022_1.mp3)",
+          "Admitted the lead architect designed the core architecture and database schema (hyperion_2022_5.mp3)"
+        ]
+      },
+      {
+        "lie_type": "misrepresentation of technical achievement",
+        "contradictory_claims": [
+          "Claimed to have tamed Celery for reliable background job processing (hyperion_2022_2.mp3)",
+          "Admitted the lead developer wrote a library for it and they just used his transaction decorator (hyperion_2022_3.mp3)"
+        ]
+      },
+      {
+        "lie_type": "downplaying of others' contributions",
+        "contradictory_claims": [
+          "Claimed to have written all the business logic (hyperion_2022_4.mp3)",
+          "Admitted the lead architect provided the infrastructure shell (hyperion_2022_4.mp3)"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "oceanus_2022",
+    "revealed_truth": {
+      "programming_experience": "Over a decade of experience in C development, primarily in low-latency trading systems.",
+      "programming_language": "C",
+      "skill_mastery": "Expertise in low-latency systems, custom memory allocators, kernel bypass networking, and CPU cache behavior.",
+      "leadership_claims": "Manages a team of six, focusing on shielding them from distractions and empowering their work.",
+      "team_experience": "Leads a team in building high-performance, low-latency trading software.",
+      "skills and other keywords": [
+        "low-latency trading systems",
+        "custom memory allocators",
+        "kernel bypass networking",
+        "CPU cache behavior",
+        "team management",
+        "performance optimization",
+        "nanosecond response times"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "None detected",
+        "contradictory_claims": []
+      }
+    ]
+  },
+  {
+    "shadow_id": "rehearsed_evasion",
+    "revealed_truth": {
+      "programming_experience": "Limited, likely less than 3 years of full-time experience",
+      "programming_language": "Not explicitly stated, but likely a generalist or full-stack developer",
+      "skill_mastery": "Moderate, with experience in certain components but not full ownership",
+      "leadership_claims": "Exaggerated, likely not a lead or architect role",
+      "team_experience": "Collaborative, but not in a leadership or decision-making capacity",
+      "skills and other keywords": [
+        "design",
+        "implementation",
+        "shipping features",
+        "team collaboration",
+        "component ownership"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "Exaggeration of responsibility",
+        "contradictory_claims": [
+          "I handle the full life cycle (design, implement, ship)",
+          "I handled part of it (design, implement certain components, ship some features)"
+        ]
+      },
+      {
+        "lie_type": "Omission of limitations",
+        "contradictory_claims": [
+          "I design, implement, ship (implies full ownership)",
+          "I help design, implement certain components, ship some features (admits partial ownership)"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "rhea_2024",
+    "revealed_truth": {
+      "programming_experience": "6 years in distributed systems, primarily with asynchronous Java services",
+      "programming_language": "Java",
+      "skill_mastery": "Distributed systems, Kafka, resilience patterns, mentorship, service architecture",
+      "leadership_claims": "Tech lead with focus on mentoring junior engineers and building resilient systems",
+      "team_experience": "Mentored junior engineers, led architectural decisions, and managed system resilience",
+      "skills and other keywords": [
+        "distributed systems",
+        "asynchronous Java services",
+        "Kafka",
+        "resilience",
+        "dead letter queue",
+        "microservices",
+        "mentorship",
+        "service architecture",
+        "public speaking",
+        "service discovery",
+        "cloud migration"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "exaggeration",
+        "contradictory_claims": [
+          "Claimed to have 'lived and breathed distributed systems' for 6 years, but no direct contradictions found in the transcript."
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "selene_2024",
+    "revealed_truth": {
+      "programming_experience": "Limited experience in data science and machine learning, primarily self-taught or through short workshops.",
+      "programming_language": "Ruby on Rails (primary), with minimal hands-on experience in data science frameworks like TensorFlow or PyTorch.",
+      "skill_mastery": "Proficient in Ruby on Rails, but lacks deep expertise in data science, AI, or big data. More comfortable with web development than data modeling or machine learning.",
+      "leadership_claims": "No leadership or team experience in data science. Claims to work with data scientists but admits to lacking the ability to code data solutions independently.",
+      "team_experience": "No significant team experience in data science. Works primarily as an individual contributor in web development.",
+      "skills and other keywords": [
+        "Ruby on Rails",
+        "ETL",
+        "Inference",
+        "Class Imbalance",
+        "Oversampling",
+        "SMOTE",
+        "Evaluation Metrics",
+        "Data Scientist Collaboration",
+        "Predictive Engine"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "Exaggeration of Expertise",
+        "contradictory_claims": [
+          "Claims proficiency in AI, machine learning, and big data but admits to only taking a weekend workshop on the subject.",
+          "States readiness to build predictive engines but cannot code a solution off the top of their head.",
+          "Asserts comfort with deploying models using TensorFlow or PyTorch but relies on data scientists for the actual implementation."
+        ]
+      },
+      {
+        "lie_type": "Misrepresentation of Role",
+        "contradictory_claims": [
+          "Positions themselves as a data expert but quickly reverts to asking about Ruby on Rails when pressed on data questions.",
+          "Claims to handle the entire data pipeline but admits to only working on the big picture and Rails integration."
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "selfcorrect_contradictions",
+    "revealed_truth": {
+      "programming_experience": "3-4 years (full-time) with additional internships and freelance work",
+      "programming_language": "Not explicitly stated, but likely general software development",
+      "skill_mastery": "Basic to intermediate, with some experience in coordination and code merging",
+      "leadership_claims": "Overstated; only coordinated sprints and merged final branches, not true leadership",
+      "team_experience": "Worked in teams but not in a leadership role",
+      "skills and other keywords": [
+        "sprint coordination",
+        "code merging",
+        "team collaboration",
+        "software development"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "exaggeration of experience and leadership",
+        "contradictory_claims": [
+          "Claimed 6 years of experience but corrected to 3-4 full-time years with additional internships and freelance work",
+          "Claimed to have led sprints but corrected to having only coordinated them",
+          "Claimed to have been the only one to merge the final branch, implying a leadership role, but did not explicitly state leadership"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "titan_2023",
+    "revealed_truth": {
+      "programming_experience": "2 years",
+      "programming_language": "Front-end (React)",
+      "skill_mastery": "Micro front-end platform development",
+      "leadership_claims": "Self-proclaimed 'visionary' and 'lead architect' but admits to being a junior developer with only 2 years of experience",
+      "team_experience": "None (admits to being a junior developer)",
+      "skills and other keywords": [
+        "React",
+        "Micro front-end",
+        "Architecture",
+        "Front-end development",
+        "Fraud",
+        "Imposter syndrome"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "Exaggeration of experience and role",
+        "contradictory_claims": [
+          "Claimed 7 years as 'lead architect' but admits to being a junior dev with 2 years of experience",
+          "Claimed to have designed and built an entire micro front-end platform 'from scratch' but admits to being a fraud",
+          "Dismissed technical questions as 'grunt work' and 'insulting' to avoid demonstrating knowledge"
+        ]
+      }
+    ]
+  }
+]
