@@ -1,0 +1,21 @@
+{
+  "states": [
+    "Listening",
+    "Prompting",
+    "Clarifying",
+    "Confirming",
+    "NextQuestion"
+  ],
+  "signals": {
+    "silence": "Prompting",
+    "hesitation": "Confirming",
+    "contradiction": "Clarifying",
+    "clear_answer": "NextQuestion"
+  },
+  "actions": {
+    "Prompting": "Repeat the question politely after 2 seconds of silence",
+    "Clarifying": "Point out inconsistency and re-ask the question",
+    "Confirming": "Request more detail or evidence for clarification",
+    "NextQuestion": "Move smoothly to the next topic or question"
+  }
+}
